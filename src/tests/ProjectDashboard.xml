@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Pinkal_QA_Automation">
+	<test name="Homepage">
+		<classes>
+			<class name="tests.HomePage" />
+		</classes>
+		</test>
+	<test name="SearchRecords">
+		<classes>
+			<class name="tests.SearchRecords" />
+		</classes>
+	</test>
+</suite>

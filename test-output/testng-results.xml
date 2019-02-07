@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Pinkal_QA_Automation" duration-ms="14793" started-at="2019-02-07T05:52:01Z" finished-at="2019-02-07T05:52:15Z">
+    <groups>
+    </groups>
+    <test name="Homepage" duration-ms="7666" started-at="2019-02-07T05:52:01Z" finished-at="2019-02-07T05:52:08Z">
+      <class name="tests.HomePage">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:tests.HomePage@7dc7cbad]" name="beforeclass" is-config="true" duration-ms="7201" started-at="2019-02-07T05:52:01Z" finished-at="2019-02-07T05:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="verifyAddRecord()[pri:0, instance:tests.HomePage@7dc7cbad]" name="verifyAddRecord" duration-ms="93" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddRecord -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:tests.HomePage@7dc7cbad]" name="appendFinalHTMLReport" is-config="true" duration-ms="2" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddRecord status=SUCCESS method=HomePage.verifyAddRecord()[pri:0, instance:tests.HomePage@7dc7cbad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+        <test-method status="PASS" signature="verifyHomepage()[pri:0, instance:tests.HomePage@7dc7cbad]" name="verifyHomepage" duration-ms="15" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepage -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:tests.HomePage@7dc7cbad]" name="appendFinalHTMLReport" is-config="true" duration-ms="1" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomepage status=SUCCESS method=HomePage.verifyHomepage()[pri:0, instance:tests.HomePage@7dc7cbad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+        <test-method status="PASS" signature="verifyStatistics()[pri:0, instance:tests.HomePage@7dc7cbad]" name="verifyStatistics" duration-ms="101" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatistics -->
+        <test-method status="PASS" signature="verifybuttonDisabled()[pri:0, instance:tests.HomePage@7dc7cbad]" name="verifybuttonDisabled" duration-ms="46" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybuttonDisabled -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:tests.HomePage@7dc7cbad]" name="appendFinalHTMLReport" is-config="true" duration-ms="0" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyStatistics status=SUCCESS method=HomePage.verifyStatistics()[pri:0, instance:tests.HomePage@7dc7cbad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:tests.HomePage@7dc7cbad]" name="appendFinalHTMLReport" is-config="true" duration-ms="0" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifybuttonDisabled status=SUCCESS method=HomePage.verifybuttonDisabled()[pri:0, instance:tests.HomePage@7dc7cbad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+        <test-method status="PASS" signature="verifyeditIcon()[pri:0, instance:tests.HomePage@7dc7cbad]" name="verifyeditIcon" duration-ms="170" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyeditIcon -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:tests.HomePage@7dc7cbad]" name="appendFinalHTMLReport" is-config="true" duration-ms="1" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyeditIcon status=SUCCESS method=HomePage.verifyeditIcon()[pri:0, instance:tests.HomePage@7dc7cbad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+      </class> <!-- tests.HomePage -->
+    </test> <!-- Homepage -->
+    <test name="SearchRecords" duration-ms="7083" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:15Z">
+      <class name="tests.SearchRecords">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:tests.SearchRecords@4501b7af]" name="beforeclass" is-config="true" duration-ms="5814" started-at="2019-02-07T05:52:08Z" finished-at="2019-02-07T05:52:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="searchRecordByDepartment()[pri:0, instance:tests.SearchRecords@4501b7af]" name="searchRecordByDepartment" duration-ms="625" started-at="2019-02-07T05:52:14Z" finished-at="2019-02-07T05:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRecordByDepartment -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:tests.SearchRecords@4501b7af]" name="appendFinalHTMLReport" is-config="true" duration-ms="1" started-at="2019-02-07T05:52:15Z" finished-at="2019-02-07T05:52:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchRecordByDepartment status=SUCCESS method=SearchRecords.searchRecordByDepartment()[pri:0, instance:tests.SearchRecords@4501b7af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+        <test-method status="PASS" signature="searchRecordsByStatus()[pri:0, instance:tests.SearchRecords@4501b7af]" name="searchRecordsByStatus" duration-ms="636" started-at="2019-02-07T05:52:15Z" finished-at="2019-02-07T05:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRecordsByStatus -->
+        <test-method status="PASS" signature="appendFinalHTMLReport(org.testng.ITestResult)[pri:0, instance:tests.SearchRecords@4501b7af]" name="appendFinalHTMLReport" is-config="true" duration-ms="1" started-at="2019-02-07T05:52:15Z" finished-at="2019-02-07T05:52:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchRecordsByStatus status=SUCCESS method=SearchRecords.searchRecordsByStatus()[pri:0, instance:tests.SearchRecords@4501b7af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appendFinalHTMLReport -->
+      </class> <!-- tests.SearchRecords -->
+    </test> <!-- SearchRecords -->
+  </suite> <!-- Pinkal_QA_Automation -->
+</testng-results>
